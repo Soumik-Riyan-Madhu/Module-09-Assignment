@@ -1,6 +1,7 @@
-# Assignment 06 - Node.js
+# Assignment of Module-09 - Node.js
 
-A simple HTTP server built using Node.js's built-in HTTP module.
+Node.js ব্যবহার করে একটি Simple HTTP Server তৈরি করা হয়েছে। 
+Developed by: Soumik (Student, MERN Stack BATCH-18)
 
 ## Features
 
