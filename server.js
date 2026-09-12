@@ -136,6 +136,3 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
-
-
-console.log("Node.js Assignment 06");
